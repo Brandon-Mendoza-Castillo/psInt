@@ -1,6 +1,6 @@
 Algoritmo sin_titulo
 	Imprimir "Esciba su nombre"
-	Leer n
+	Leer n          
 	Imprimir "Ingrese su direcion"
 	Leer d
 	Imprimir "Ingrese su puesto de trabajo"
